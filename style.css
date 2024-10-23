@@ -113,10 +113,10 @@ body{
 
 @media (max-width: 376px) {
     .container{
-        width: 300px;
+        width: 280px;
     }
     .fireworks li{
-        margin: 10px;
+        margin: 8px;
     }
     .container .title{
         font-size: 3rem;
